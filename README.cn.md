@@ -1,35 +1,50 @@
-# 🌐 GEOLENS OS V1.0 - 高级 OSINT 调查员
+<div align="center">
 
-![Hacker Aesthetic](https://i.redd.it/sgoydbg7yfo11.gif)
+# 💀 GEOLENS OS V1.0 - 🇨🇳 NODE 💀
+### ⚡ 高级取证 OSINT 拦截器 ⚡
 
-**GEOLENS OS** 是一个高级数字取证和开源情报 (OSINT) 平台，专为从视觉数据中通过三角测量精确定位而设计。该系统搭载 Gemini 3.1 Flash 神经引擎，通过分析细微的环境线索来突破物理边界。
-
----
-
-## ⚡ 核心使命
-通过交叉引用全球品牌分支机构、建筑标记和生物背景，提供精确的位置情报。不再有“位置不明”——只有确认的坐标。
-
-## 🛠 技术栈
-- **前端引擎**: React 18 & Vite (高速运行时)
-- **神经处理器**: Google Gemini 3.1 Flash-Preview (定制 OSINT 提示词)
-- **视觉界面**: Tailwind CSS & Motion (电影般的黑客 UI)
-- **加密**: 内置安全数据流，零本地持久化。
-- **图标**: Lucide-React (界面符号)
-
-## 📡 本地化协议
-系统支持超过 16 种神经接口语言，确保全球可访问性。
-
-## 🚀 核心功能
-- **深层三角测量**: 分析树种、路缘油漆和电线杆的变化。
-- **多分支机构交叉引用**: 根据特定的内部取证标记，识别商家（如密室逃脱）是在雅尔塔还是斯塔夫罗波尔。
-- **历史背景**: 考虑位置随时间推移而发生的环境变化。
-- **取证报告**: 以 Markdown 格式生成详细的“特工”风格报告。
+<img src="https://img.shields.io/badge/SECURITY-LEVEL_A-red?style=for-the-badge&logo=spyjs" /> <img src="https://img.shields.io/badge/OSINT-ACTIVE-green?style=for-the-badge&logo=hackthebox" /> <img src="https://img.shields.io/badge/NEURAL_CORE-3.1_FLASH-blue?style=for-the-badge&logo=google-gemini" />
 
 ---
 
-### 💳 支持开发
-如果此系统对您的调查有所帮助，请考虑支持开发者：
-- **开发者节点**: [savich18-Official](https://github.com/savich18-Official)
-- **贡献节点**: [通过 DonationAlerts 捐赠](https://www.donationalerts.com/r/official_savich18)
+<img src="https://i.redd.it/sgoydbg7yfo11.gif" width="100%" />
 
-*© 2026 GEOLENS_OS V1.0 | 连接状态：安全*
+---
+
+`[ 解析视觉元数据... ]`
+`[ 进行坐标三角测量... ]`
+`[ 连接状态：安全 / 已加密 ]`
+
+</div>
+
+## 🌌 系统使命
+> **“每个像素都有足迹，每个阴影都有故事。”**
+
+**GEOLENS OS** 不仅仅是一个工具，它是一个高级数字情报节点。专为现代网络取证而设计，利用 **Google Gemini 3.1 Flash** 的原始能力剖析图像，通过匹配全球分支机构位置、建筑细节和地区生态指标，精确定位地球上的拍摄点。
+
+---
+
+## 🗺️ 全球节点 (导航)
+
+<div align="center">
+
+| 节点 | 链接 | 节点 | 链接 |
+| :---: | :--- | :---: | :--- |
+| 🌐 | [EN.README](./README.md) | 🇷🇺 | [RU.README](./README.ru.md) |
+| 🇯🇵 | [JP.README](./README.jp.md) | 🇺🇦 | [UA.README](./README.ua.md) |
+
+</div>
+
+---
+
+## 🚀 网络 OSINT 功能
+
+- 🔍 **取证三角测量**: 对路缘模式、公共设施基础设施和地区植物群进行高级分析。
+- 🏢 **分支机构识别**: 通过内部取证区分全球连锁店位置（例如：雅尔塔与莫斯科）。
+- 🕰️ **时空扫描**: 交叉引用历史视觉数据以考虑场地的演变。
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer&text=GEOLENS%20OS%20v1.0&fontSize=40&fontAlignY=50" />
+</p>
