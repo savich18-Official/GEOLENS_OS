@@ -1,0 +1,6 @@
+{
+  "name": "GeoLens AI",
+  "description": "Интеллектуальный анализ фотографий для определения местоположения и контекста объектов.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
